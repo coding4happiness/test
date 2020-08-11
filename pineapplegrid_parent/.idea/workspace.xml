@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f80aad20-3dbd-497b-9da2-d3586049627b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Tag Library Descriptor" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WDCkCjms1OwMGyjxhMeptSIovq" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pineapplegrid_web/src/main/webapp/img" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\document\IdeaProjects\pineapplegrid_parent\pineapplegrid_web\src\main\webapp\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\document\IdeaProjects\pineapplegrid_parent\pineapplegrid_web\src\main\webapp\plugins" />
+      <recent name="E:\document\IdeaProjects\pineapplegrid_parent\pineapplegrid_web\src\main\webapp\plugins\icon" />
+      <recent name="E:\document\IdeaProjects\pineapplegrid_parent\pineapplegrid_web\src\main\webapp\plugins\jquery" />
+      <recent name="E:\document\IdeaProjects\pineapplegrid_parent\pineapplegrid_web\src\main\webapp\img" />
+      <recent name="E:\document\IdeaProjects\pineapplegrid_parent\pineapplegrid_web\src\main\webapp\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f80aad20-3dbd-497b-9da2-d3586049627b" name="Default Changelist" comment="" />
+      <created>1578674919377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578674919377</updated>
+      <workItem from="1578674923912" duration="15342000" />
+      <workItem from="1579005859220" duration="12777000" />
+      <workItem from="1579049006662" duration="182000" />
+      <workItem from="1579090989564" duration="4701000" />
+      <workItem from="1579447039817" duration="1721000" />
+      <workItem from="1579947472573" duration="729000" />
+      <workItem from="1587201916452" duration="152000" />
+      <workItem from="1587202944638" duration="264000" />
+      <workItem from="1587798177383" duration="265000" />
+      <workItem from="1591407526754" duration="3102000" />
+      <workItem from="1594724938746" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
